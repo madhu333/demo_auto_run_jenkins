@@ -6,3 +6,9 @@
 5. sudo apt-get install jenkins
 6. sudo apt-get remove jenkins
 7. sudo apt-get remove --auto-remove jenkins
+sudo vi /etc/default/jenkins
+sudo service jenkins stop
+sudo service jenkins start
+sudo service jenkins restart
+ssh-keygen -t rsa -C 'mcheni333@VTA001L'
+vim ~.ssh/id_rsa.pub 
