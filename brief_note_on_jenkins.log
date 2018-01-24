@@ -4,3 +4,5 @@
 3. sudo service jenkins restart
 4. sudo /etc/default/jenkins
 5. sudo apt-get install jenkins
+6. sudo apt-get remove jenkins
+7. sudo apt-get remove --auto-remove jenkins
