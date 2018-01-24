@@ -2,3 +2,4 @@
 1. sudo service jenkins start
 2. sudo service jenkins stop
 3. sudo service jenkins restart
+4. sudo /etc/default/jenkins
